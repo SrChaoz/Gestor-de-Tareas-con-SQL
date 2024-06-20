@@ -1,0 +1,4 @@
+cuando descargues el proyecto y lo ejecutes en netBeands seguramente te saldra un error lo que debes hacer es ir a la 
+carpeta de librerias dar click derecho/propiedades y selecionas la libreria que tiene error, la eliminas y pulsas en "OK" 
+luego das otra vez click derecho sobre la carpeta librerias pero ahora en add library y ahi anades 
+el "mysql-connector-java-5.1.23-bin.jar" 
