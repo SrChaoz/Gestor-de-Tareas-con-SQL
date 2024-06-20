@@ -1,3 +1,0 @@
-Inicializa SQL y Apache con Xampp
-en tu navegador coloca http://localhost y luego pulsa en phpMyadmin
-crea una base de datos en phpMyAdmin con el nombre "gestiontarea" y luego importa la tabla "tarea.sql"
